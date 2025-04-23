@@ -52,7 +52,7 @@ python3 forca_bruta.py --create-wordlist senhas.txt
 python3 forca_bruta.py --password "senha123" --algorithm md5
 
 # Realizar um ataque de força bruta
-python3 forca_bruta.py --wordlist senhas.txt --hash "5f4dcc3b5aa765d61d8327deb882cf99" --algorithm md5
+python3 forca_bruta.py --wordlist senhas.txt --hash "e7d80ffeefa212b7c5c55700e4f7193e" --algorithm md5
 ```
 
 ### Análise do Código
